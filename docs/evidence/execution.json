@@ -1,0 +1,28 @@
+{
+  "id": "007",
+  "status": "executed",
+  "commands": [
+    "python src/eda_report.py sample/data.csv --output outputs/report.md"
+  ],
+  "elapsed_seconds": 2.49,
+  "python": "3.13.5",
+  "inputs": [
+    {
+      "file": "sample/data.csv",
+      "sha256": "172c9612925861b9cc1cbe42046ceefa430c1e8bc0b61599ed18597614e2c656"
+    }
+  ],
+  "output_artifacts": [
+    {
+      "file": "results/execution.txt",
+      "sha256": "4306b5861b37ff93fbb5cff15c5fe837f7b05169a32ed565822199cf4621ca7a",
+      "bytes": 95
+    },
+    {
+      "file": "results/artifacts/report.md",
+      "sha256": "1f3985b4fa854c72da558fe8048552bfddd3b5e7efd8ce659a9890ce48a6fc61",
+      "bytes": 884
+    }
+  ],
+  "observations": "Local execution using bundled fixtures; not an external performance evaluation."
+}

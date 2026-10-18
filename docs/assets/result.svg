@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="240" viewBox="0 0 1020 240" role="img" aria-label="Observed local execution output">
+<rect width="1020" height="240" fill="#ffffff" stroke="#dce5ec"/><text x="44" y="55" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#3c668b" letter-spacing="2.2">EXECUTION RECORD</text><line x1="44" y1="68" x2="976" y2="68" stroke="#dce5ec"/>
+<text x="44" y="103" font-family="ui-monospace, Consolas, monospace" font-size="14" fill="#243b53">Wrote outputs/report.md</text><text x="44" y="215" font-family="Arial,sans-serif" font-size="13" fill="#8291a2">Local run on included test inputs · Source: results/execution.txt</text>
+</svg>

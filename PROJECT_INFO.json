@@ -1,0 +1,31 @@
+{
+  "project_id": 7,
+  "repo_name": "007-automatic-eda-assistant",
+  "title": "Automatic EDA Assistant",
+  "theme": "Data Foundations & Engineering",
+  "theme_id": "T01",
+  "level": 1,
+  "level_label": "Foundations",
+  "prototype_status": "research prototype",
+  "primary_description": "Reproducible EDA reporting",
+  "research_question_proposed": "Can automatically generated exploratory reports improve the reproducibility of first-pass data inspection?",
+  "sample_files": [
+    "sample/data.csv"
+  ],
+  "source_modules": [
+    "src/eda_report.py"
+  ],
+  "commands_from_original_readme": [
+    "python src/eda_report.py sample/data.csv --output outputs/report.md"
+  ],
+  "docs": [
+    "README.md",
+    "docs/RESEARCH.md",
+    "docs/ARCHITECTURE.md",
+    "docs/DEMO.md",
+    "docs/RESULTS.md"
+  ],
+  "source_origin": "github-level1-20-projects(1).zip",
+  "execution_status": "verified_local_execution",
+  "evidence": "results/execution.json"
+}

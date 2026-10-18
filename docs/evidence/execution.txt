@@ -1,0 +1,3 @@
+$ python src/eda_report.py sample/data.csv --output outputs/report.md
+Wrote outputs/report.md
+
